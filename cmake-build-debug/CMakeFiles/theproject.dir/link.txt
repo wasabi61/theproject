@@ -1,0 +1,1 @@
+/usr/local/bin/gcc-8 -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/theproject.dir/main.c.o  -o theproject 

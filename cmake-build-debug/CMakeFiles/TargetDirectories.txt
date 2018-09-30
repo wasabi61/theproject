@@ -1,0 +1,3 @@
+/Users/vasich61/learn/git/theproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vasich61/learn/git/theproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vasich61/learn/git/theproject/cmake-build-debug/CMakeFiles/theproject.dir
